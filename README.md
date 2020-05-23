@@ -7,7 +7,6 @@ Master: Information Systems - HEC Lausanne - 2020
 
 
 ## Team Rolex - Contributions
-----
 
 - Samuel LEW: Data processing, Classification models, Conclusion, Video editing
 - Alexandre LANG: Introduction, Classification models
@@ -16,7 +15,6 @@ Master: Information Systems - HEC Lausanne - 2020
 
 
 ## Project
-----
 
 This second project is about the classification of tweets (from disaster tweet to non-disaster tweet) using different machine learning algorithms.
 
@@ -24,9 +22,8 @@ This notebooks provides details on the dataset, on the algorithms chosen and com
 
 
 ## Methodology
-----
 
-0. Introduction to the Kaggle competition
+O. Introduction to the Kaggle competition
 
 I. Libraries used
 
@@ -43,6 +40,5 @@ VI. Youtube video [link] and Github repository [link]
 
 
 ## Execution
-----
 
 In order to get all the information, you should download the principal Notebook [Notebookname] and run it using [Jupyter], or online by using [Google Collab] or [Azure Notebooks]. After going through the notebook, you can watch a recap from this YouTube video [link video] that will provide an overview of the project.
