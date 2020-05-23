@@ -1,9 +1,9 @@
 # Big Scale Analytics 2020 - Project 2
 ----
 
-Project repository of the Team Rolex, Kaggle competition 'Real or not? NLP with disaster tweet'.
+Project repository of the **Team Rolex**, Kaggle competition **'Real or not? NLP with disaster tweet'**.
 
-Master: Information Systems - HEC Lausanne - 2020
+Master in Information Systems - HEC Lausanne - 2020
 
 
 ## Team Rolex - Contributions
@@ -23,7 +23,7 @@ This notebooks provides details on the dataset, on the algorithms chosen and com
 
 ## Methodology
 
-O. Introduction to the Kaggle competition
+O. Introduction to Kaggle's competition
 
 I. Libraries used
 
@@ -32,7 +32,8 @@ II. EDA of the training set
 III. Data processing
 
 IV. Classification models
-[list of the models used]
+
+[list of models used]
 
 V. Conclusion on the project
 
