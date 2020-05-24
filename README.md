@@ -6,7 +6,7 @@ Project repository of the **Team Rolex**, Kaggle competition **'Real or not? NLP
 Master in Information Systems - HEC Lausanne - 2020
 
 
-## Team Rolex - Contributions
+## Team Rolex - Contributions to final notebook 'Main_Notebook_Rolex.ipynb'
 
 - Samuel LEW: Data processing, Classification models, Conclusion, Video editing
 - Alexandre LANG: Introduction, Classification models
@@ -23,6 +23,8 @@ This notebooks provides details on the dataset, on the algorithms chosen and com
 
 ## Methodology
 
+Github repository [https://github.com/amuller9/Rolex_Project2]
+
 O. Introduction to Kaggle's competition
 
 I. Libraries used
@@ -33,13 +35,21 @@ III. Data processing
 
 IV. Classification models
 
-[list of models used]
+- K Nearest Neighbours (KNN)
+- Multinomial Naive Bayes
+- Bernouilli Naive Bayes
+- Logistic regression
+- Neural networks
+- Decision trees
+- Random Forest Classifier
+- Decision Tree Regressor
+- Support Vector Machine
 
-V. Conclusion on the project
+V. Conclusion on the results
 
-VI. Youtube video [link] and Github repository [link]
+VI. Youtube video [https://youtu.be/oogpa4BV2Qo]
 
 
 ## Execution
 
-In order to get all the information, you should download the principal Notebook [Notebookname] and run it using [Jupyter], or online by using [Google Collab] or [Azure Notebooks]. After going through the notebook, you can watch a recap from this YouTube video [link video] that will provide an overview of the project.
+In order to get all the information, you should download the principal Notebook [Main_Notebook_Rolex.ipynb] and run it using [Jupyter], or online by using [Google Collab] or [Azure Notebooks]. After going through the notebook, you can watch a recap from this YouTube video [https://youtu.be/oogpa4BV2Qo] that will provide an overview of the project.
